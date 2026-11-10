@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm a biomedical professional with 15 years of experience in
+I'm a biomedical professional with 17 years of experience in
 medical imaging, specializing in MRI and CT.
 
 I'm passionate about technology, programming, hardware,
