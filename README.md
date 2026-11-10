@@ -3,27 +3,42 @@
 
 ### 💻 Programming Student | Biomedical Professional | Technology Enthusiast
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 🚀
 
 I'm a biomedical professional with 15 years of experience in
 medical imaging, specializing in MRI and CT.
 
-I enjoy learning how technology works, from software development
-to Linux systems, servers, electronics, and automation.
+I'm passionate about technology, programming, hardware,
+Linux systems, electronics and automation.
 
-Currently, I'm learning programming through hands-on projects.
+Currently, I'm expanding my knowledge through practical
+projects and continuous learning.
 
 ---
 
-## 🏆 42 São Paulo — Discovery
+## 🏆 42 São Paulo — My Journey
 
-✅ Participated in the **42SP Discovery program**.
+### ✅ Discovery Program — Completed
 
-✅ Successfully completed the proposed programming challenges.
+I participated in the **42 São Paulo Discovery program**
+and successfully completed the proposed programming challenges.
 
-✅ Developed practical projects using HTML, CSS, JavaScript and jQuery.
+During the program, I gained hands-on experience with:
 
-✅ Experienced teamwork, peer learning and problem-solving.
+- HTML5 and CSS3
+- JavaScript and jQuery
+- Web development
+- Teamwork and peer learning
+- Problem-solving and programming logic
+
+### 🎯 42 São Paulo — Piscine Candidate
+
+I'm currently pursuing a spot in the **42 São Paulo Piscine**,
+an intensive programming selection experience.
+
+My goal is to strengthen my programming fundamentals,
+develop my problem-solving skills and continue learning
+through practical challenges.
 
 ---
 
@@ -36,6 +51,7 @@ Currently, I'm learning programming through hands-on projects.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Tools & Systems
 
@@ -44,25 +60,36 @@ Currently, I'm learning programming through hands-on projects.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### Hardware & Embedded Systems
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Orange Pi](https://img.shields.io/badge/Orange_Pi-FF6600?style=for-the-badge&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
 ---
 
 ## 🛠️ Projects & Interests
 
 - 🐍 Python programming and automation
+- 💻 C programming and problem-solving
 - 🌐 Web development with HTML, CSS and JavaScript
 - 🐧 Linux systems and server administration
-- 🔌 Embedded systems and electronics
-- 🖥️ Orange Pi, ESP32 and hardware projects
-- ⚙️ Software, hardware and open-source technologies
+- 🍓 Raspberry Pi projects
+- 🍊 Orange Pi and single-board computers
+- 🔌 ESP32, microcontrollers and IoT
+- 🖥️ Networking and remote access
+- ⚙️ Hardware, software and open-source technologies
+- 🖨️ 3D printing and electronics
 
 ---
 
 ## 📚 My Learning Journey
 
-This GitHub documents my programming journey.
+This GitHub is my personal space to document my progress,
+share experiments and publish programming projects.
 
-My goal is to learn, experiment, build useful projects,
-and continuously improve my technical skills.
+I'm focused on building a strong foundation in programming
+while exploring Linux, servers and embedded systems.
 
 **Learning by doing, one project at a time.**
 
