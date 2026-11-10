@@ -115,11 +115,15 @@ while exploring Linux, servers and embedded systems.
 
 ## 🚀 My Next Steps
 
-I'm focused on developing my programming and technical skills through hands-on learning and real-world projects.
+I'm focused on developing my programming and technical skills through hands-on learning, experimentation and real-world projects.
 
 - **C Programming:** Strengthen my programming logic, algorithms and problem-solving skills while preparing for the 42 São Paulo Piscine.
 - **Python:** Build practical applications, automation scripts and tools for everyday challenges.
 - **Linux:** Improve my knowledge of terminal commands, networking, system administration and Linux servers.
-- **Raspberry Pi:** Explore electronics, hardware integration, automation and IoT through practical projects.
+- **Raspberry Pi, Orange Pi & ESP32:** Explore single-board computers, microcontrollers, electronics, IoT and hardware-software integration.
+- **Self-Hosted & Open-Source Projects:** Learn by building my own personal cloud, a Netflix-like media streaming platform and other useful services using open-source technologies.
+- **Cyberdecks & Maker Projects:** Design, prototype and build custom devices, combining programming, electronics, mechanical design and 3D printing.
+
+I love understanding how things work and creating my own versions of useful technologies — from software and servers to physical products.
 
 **My mission:** Keep learning, experimenting and building something new every day!
